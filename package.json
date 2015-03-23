@@ -1,0 +1,18 @@
+{
+  "name": "todomerang",
+  "version": "0.0.1",
+  "description": "A todo list manager which focuses on efficient UX.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm prune && npm install && ./node_modules/.bin/live-server"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "Scott Maclure <scott@maclure.com.au>",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^0.7.0",
+    "riot": "^2.0.13"
+  }
+}
