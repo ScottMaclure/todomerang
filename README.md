@@ -12,6 +12,6 @@ Data storage will be local to your mobile, the intent is to use only your mobile
 
 Clone git repo, then from project root:
 
-1. npm start
+1. `npm start`
 
 Browser window will be opened, live-reload will occur.
